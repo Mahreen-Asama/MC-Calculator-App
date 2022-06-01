@@ -1,2 +1,2 @@
 # MC-Calculator-App
-basic android studio 
+basic calculator android studio 
