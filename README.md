@@ -1,2 +1,2 @@
 # MC-Calculator-App
-basic calculator (+,-,*,/) android studio 
+basic calculator (+,-,*,/) android 
